@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class mainTarjetas {
 
-    //Token: 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
+    //Token: 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
     
     public static void main(String[] args) {
 
